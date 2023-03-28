@@ -25,7 +25,7 @@ public class Lab7 {
         doThat();
     }
     public static void doThat() throws Exception{
-        throw new MyException
+        throw new MyException;
     }
 }
     
